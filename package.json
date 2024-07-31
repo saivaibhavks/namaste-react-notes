@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by K S Saivaibhav",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saivaibhavks/namaste-react-notes.git"
+  },
+  "keywords": [
+    "namste",
+    "react"
+  ],
+  "author": "K S Saivaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saivaibhavks/namaste-react-notes/issues"
+  },
+  "homepage": "https://github.com/saivaibhavks/namaste-react-notes#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
